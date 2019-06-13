@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jun 11 15:14:07 GMT-03:00 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016b-47bf-493d-00000b513d88 
+on database directory memory:C:\Users\dmmad\Dropbox\Pesquisa\R\variantspark\tests\testthat\databaseName=metastore_db with class loader sun.misc.Launcher$AppClassLoader@1a8a1dc 
+Loaded from file:/C:/Users/dmmad/AppData/Local/spark/spark-2.4.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=C:\Users\dmmad\Dropbox\Pesquisa\R\variantspark\tests\testthat
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
